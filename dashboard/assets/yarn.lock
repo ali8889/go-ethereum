@@ -2731,9 +2731,10 @@ flow-bin-loader@^1.0.2:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/flow-bin-loader/-/flow-bin-loader-1.0.3.tgz#1b95260437bea24786a5abc022ef3efa02df77c5"
 
-flow-bin@^0.63.1:
-  version "0.63.1"
-  resolved "https://registry.yarnpkg.com/flow-bin/-/flow-bin-0.63.1.tgz#ab00067c197169a5fb5b4996c8f6927b06694828"
+flow-bin@^0.127.0:
+  version "0.127.0"
+  resolved "https://registry.yarnpkg.com/flow-bin/-/flow-bin-0.127.0.tgz#0614cff4c1b783beef1feeb7108d536e09d77632"
+  integrity sha512-ywvCCdV4NJWzrqjFrMU5tAiVGyBiXjsJQ1+/kj8thXyX15V17x8BFvNwoAH97NrUU8T1HzmFBjLzWc0l2319qg==
 
 flow-typed@^2.2.3:
   version "2.3.0"
@@ -3962,8 +3963,6 @@ map-visit@^1.0.0:
 material-ui-icons@^1.0.0-beta.17:
   version "1.0.0-beta.35"
   resolved "https://registry.yarnpkg.com/material-ui-icons/-/material-ui-icons-1.0.0-beta.35.tgz#f795fafa385918ef7c88ee382e5e5bf4401f008c"
-  dependencies:
-    recompose "^0.26.0"
 
 material-ui@^1.0.0-beta.30:
   version "1.0.0-beta.35"
