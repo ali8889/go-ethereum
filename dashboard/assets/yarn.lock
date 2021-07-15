@@ -2731,9 +2731,10 @@ flow-bin-loader@^1.0.2:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/flow-bin-loader/-/flow-bin-loader-1.0.3.tgz#1b95260437bea24786a5abc022ef3efa02df77c5"
 
-flow-bin@^0.63.1:
-  version "0.63.1"
-  resolved "https://registry.yarnpkg.com/flow-bin/-/flow-bin-0.63.1.tgz#ab00067c197169a5fb5b4996c8f6927b06694828"
+flow-bin@^0.154.0:
+  version "0.154.0"
+  resolved "https://registry.yarnpkg.com/flow-bin/-/flow-bin-0.154.0.tgz#e086964398e671daa8f56ed8663d7876337f77e5"
+  integrity sha512-I6u2ETdkAyard+8C5na6bfZp4EM0zIMB7O5zH4GKzBLv9/y8/NYRTxEXQe5T0hvj9R9DxFBUoPsFK76ziweUFw==
 
 flow-typed@^2.2.3:
   version "2.3.0"
